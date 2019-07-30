@@ -7,7 +7,7 @@ def square_array(array)
     counter += 1
   end
   
-  puts newArray
+  return newArray
   
 end
 
